@@ -1,0 +1,31 @@
+{
+  "name": "smallest",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Get the smallest number in a list",
+  "license": "MIT",
+  "repository": "bendrucker/smallest",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "smallest",
+    "least",
+    "number"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "to-array": "~0.1.4"
+  }
+}
