@@ -1,7 +1,7 @@
 {
   "name": "smallest",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the smallest number in a list",
   "license": "MIT",
   "repository": "bendrucker/smallest",
