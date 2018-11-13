@@ -1,4 +1,4 @@
-# smallest [![Build Status](https://travis-ci.org/bendrucker/smallest.svg?branch=master)](https://travis-ci.org/bendrucker/smallest)
+# smallest [![Build Status](https://travis-ci.org/bendrucker/smallest.svg?branch=master)](https://travis-ci.org/bendrucker/smallest) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/smallest.svg)](https://greenkeeper.io/)
 
 > Find the smallest number in a list
 
