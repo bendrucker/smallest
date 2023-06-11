@@ -1,19 +1,20 @@
-# smallest [![Build Status](https://travis-ci.org/bendrucker/smallest.svg?branch=master)](https://travis-ci.org/bendrucker/smallest) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/smallest.svg)](https://greenkeeper.io/)
+# smallest [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/smallest.svg)](https://greenkeeper.io/)
 
 > Find the smallest number in a list
 
+This is also one of the smalled packages on NPM... if you need that for testing bundlers, connectivity, integration, etc.
 
 ## Install
 
 ```
-$ npm install --save smallest
+$ npm i smallest
 ```
 
 
 ## Usage
 
 ```js
-var smallest = require('smallest')
+const smallest = require('smallest')
 
 smallest(1, 2, 4, 3)
 //=> 1
